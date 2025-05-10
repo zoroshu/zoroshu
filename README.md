@@ -99,8 +99,8 @@ Actualy, I'm studying Informations Systems at Federal University of Viçosa - Ri
 
 <img 
     align="left" 
-    alt="Docker" 
-    title="Docker"
+    alt="PostgreSQL" 
+    title="PostgreSQL"
     width="30px" 
     style="padding-right: 10px;" 
     src= 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg'

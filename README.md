@@ -2,7 +2,8 @@
 
 **`Backend Development`**
 
-Hello my name is Victor Felipe, I'm 23 years old and I live in Serra do Salitre, Minas Gerais, Brasil. <br>
+Hello, my name is Victor Felipe! <br> 
+I'm 23 years old and I live in Serra do Salitre, Minas Gerais, Brasil. <br>
 Actualy, I'm studying Informations Systems at Federal University of Viçosa - Rio Paranaíba Campus. Since I was young I was loved with the tech area and recently I become to study more about backend development. I'm excited to put my knowledges in pratice and create great things, follow my evolution in this page and how technology can change the things around and change yourself too. <br>Good to see you!
 ---
 

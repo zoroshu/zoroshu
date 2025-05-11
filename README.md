@@ -35,12 +35,11 @@ Actualy, I'm studying Informations Systems at Federal University of Viçosa - Ri
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="MongoDb"
+    title="MongoDb" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
 <img 
     align="left" 
     alt="SpringBoot"
@@ -59,11 +58,11 @@ Actualy, I'm studying Informations Systems at Federal University of Viçosa - Ri
 />
 <img 
     align="left" 
-    alt="Laravel" 
-    title="Laravel"
+    alt="Django" 
+    title="Django"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"          
 />
 <img 
     align="left" 
@@ -97,7 +96,6 @@ Actualy, I'm studying Informations Systems at Federal University of Viçosa - Ri
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
 />
-
 <img 
     align="left" 
     alt="PostgreSQL" 
@@ -113,7 +111,7 @@ Actualy, I'm studying Informations Systems at Federal University of Viçosa - Ri
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=00BFFF&color:FFF)](mailto:victorrrrfelipe@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00BFFF&color:FFF)](https://www.linkedin.com/in/victoroliveira2001)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00BFFF&color:FFF)](https://www.instagram.com/og_victor/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00BFFF&color:FFF)](https://www.instagram.com/_ogvictor/)
 ---
 <br/>
 <br/>

@@ -8,7 +8,6 @@ Além da área de suporte, também participo da **extração, organização e tr
 
 Nos últimos meses tenho direcionado minha carreira para **Engenharia de Dados**, aprofundando conhecimentos em **SQL, Python, modelagem de dados e arquitetura de dados em cloud**.
 
----
 
 # 🛠 Tecnologias e Ferramentas
 
@@ -96,7 +95,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg
 <br/>
 <br/>
 
----
 
 # 📚 Atualmente estudando
 
@@ -107,7 +105,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg
 - Databricks e processamento de dados
 - Estruturação de pipelines de dados
 
----
 
 # 🚧 Projetos em desenvolvimento
 
@@ -121,7 +118,6 @@ Estou construindo projetos voltados para **Engenharia de Dados**, incluindo:
 
 Em breve novos repositórios serão publicados.
 
----
 
 # 🤝 Conecte-se comigo
 
@@ -135,21 +131,10 @@ Em breve novos repositórios serão publicados.
 
 ### 📊 Estatísticas
 
-<p>
-<img 
-align="left" 
-alt="GitHub Stats" 
-height="180" 
-style="padding-right: 10px;" 
-src="https://github-readme-stats.vercel.app/api?username=zoroshu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-/>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=zoroshu&show_icons=true&theme=tokyonight)
 
-<img 
-align="left" 
-alt="Top Languages" 
-height="180" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoroshu&layout=compact&theme=tokyonight&langs_count=8"
-/>
-</p>
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zoroshu&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zoroshu&theme=tokyonight)
 
 <br/><br/><br/>
